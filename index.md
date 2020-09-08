@@ -14,7 +14,11 @@ Some Text here about how great I am!
 
 ## Currently
 
-Doing lots of testing and innovating.
+`Oct 2017 - Present`
+Software test engineer @booking.com
+
+`Main responsibilites in role`
+Blah blah blah
 
 ### Specialized in
 
@@ -32,7 +36,7 @@ Doing lots of testing and innovating.
 
 ### Interests
 
-Automation, accessibility, sharing knowledge
+Automation, accessibility, sharing knowledge, gaming (especially PVE)
 
 ## Awards
 
