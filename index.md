@@ -17,10 +17,10 @@ Some Text here about how great I am!
 `Oct 2017 - Present`
 Software test engineer @booking.com
 
-`Main responsibilites in role`
+`Main responsibilites`
 Blah blah blah
 
-### Specialized in
+## Specialized in
 
 - Testing
 - Innovating
@@ -34,7 +34,7 @@ Blah blah blah
 - Strong attention to detail
 - Communication within cross functional teams
 
-### Interests
+## Interests
 
 Automation, accessibility, sharing knowledge, gaming (especially PVE)
 
