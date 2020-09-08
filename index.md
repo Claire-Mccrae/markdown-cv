@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Claire McCrae's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Claire McCrae
+
+Some Text here about how great I am!
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="claire_mccrae@hotmail.co.uk">claire_mccrae@hotmail.co.uk</a>
+| <a href="https://www.linkedin.com/in/claire-mccrae-25a16277/">LinkedIn</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+`Oct 2017 - Present`
+Software test engineer @booking.com
 
-### Specialized in
+`Main responsibilites`
+Blah blah blah
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Specialized in
 
+- Testing
+- Innovating
+- Team work
+- Accessibility
+- Passionate for development and developing
+- Pro-active approach to work
+- Great Analytical skills
+- Highly organised
+- Very Adaptable
+- Strong attention to detail
+- Communication within cross functional teams
 
-### Research interests
+## Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+Automation, accessibility, sharing knowledge, gaming (especially PVE)
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+Hackathon International Winner - Green Taxi 2.0
+Me & my Hack team won our category in the global Hackathon in Booking.com
+We received a Trophey, medal and vouchers.
+Since we have managed to get our hack out of concept and into the production environment.
+We intend to extend it further when we can.
 
-Associate, *French Academy of Science*, Paris, France
+`2019`
+Hackathon Winner - Green Taxi 1.0
+Creating a Greener Taxi option for the company.
+Introduced a new car type and carbon offsetting concepts & working prototype.
 
+`2018`
+Hackathon Winner - Integrated Widget.
+Me & my team created an integrated widget and won our category.
 
+## Qualifications
 
-## Publications
+**Certifications**
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- LinkedIn Learning Scrum: The Basics
+- NVQ level 2 in Hospitality
 
-### Journals
+`A-Level`
+**Lymm High School, Lymm**
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- 1 C
+- 2 D's
 
-`1669`
-Lectiones opticæ.
+`GCSE`
+**Lymm High School, Lymm**
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- 1 BB
+- 1 B
+- 5 C's
+- 2 D's
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
